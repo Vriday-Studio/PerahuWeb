@@ -81,7 +81,7 @@ const Home = () => {
                 <p className="text-xs tracking-widest">
                     JELAJAH K<span className="text-sm">AR</span>YA
                 </p>
-                <h1 className="text-3xl font-bold">Arundaya</h1>
+                <h1 className="text-3xl font-bold">Perahu Arundaya</h1>
                 <div className="grid grid-cols-1 gap-2 mx-10 mt-3">
                     
                     <Link
